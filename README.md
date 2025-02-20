@@ -14,20 +14,11 @@ I’m an **IT graduate student** specializing in **Cloud Computing**, **DevOps**
 
 ---
 
-## 🚀 Skills & Technologies
-
-- **Cloud Platforms**: AWS, Azure  
-- **Containerization & Orchestration**: Docker, Kubernetes  
-- **CI/CD Tools**: Jenkins, GitLab CI  
-- **Infrastructure as Code (IaC)**: Terraform, Ansible  
-- **Programming/Scripting**: Python, Java, Node.js, .NET, Bash  
-- **Web Development**: React.js, Express.js  
-- **Networking**: CCNA, VPN, LAN/WAN, Windows Server  
-- **Monitoring & Automation**: Prometheus, Apache Kafka, JIRA  
+  
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Recent Projects
 
 ### 🔹 [**Dream Job – Full-Stack Job Search Platform**](https://github.com/ryanmaruf615/Dream_Job.git)  
 *Oct 2023 – Mar 2024*
@@ -58,41 +49,5 @@ A lightweight Node.js app that monitors API uptime and provides real-time status
   - Built from scratch using pure Node.js with secure user authentication.
   - Real-time API monitoring with custom alerts and notifications.
 
----
-
-## 🎓 Education
-
-**Master of Engineering (M.Eng.) in Information Technology**  
-*Frankfurt University of Applied Sciences, Germany*  
-*Focus*: Cloud Computing (Azure), Software Engineering (.NET), IT Security, Agile Development (AWS)  
-
-**Bachelor of Science (B.Sc.) in Computer Science**  
-*American International University Bangladesh*  
-
----
-
-## 📜 Certifications
-
-- **German Language Certification (telc B1)** *(Nov 2024)*  
-- **Learn JIRA with Real-World Examples + Confluence Bonus** *(2025, Udemy)*  
-
----
-
-## 📈 Career Goals
-
-I’m passionate about cloud-native technologies and aspire to become a **DevOps Engineer** specializing in **cloud infrastructure**, **automation**, and **continuous delivery pipelines**. I’m eager to contribute to innovative teams and tackle real-world challenges in system optimization and performance engineering.
-
----
-
-## 🌐 Let's Connect!
-
-Feel free to reach out if you’d like to collaborate on projects, discuss DevOps practices, or just chat about tech!  
-
-📧 **Email**: [marufhossainbd615@gmail.com](mailto:marufhossainbd615@gmail.com)  
-📍 **Location**: Frankfurt am Main, Germany  
-🔗 **LinkedIn**: [linkedin.com/in/md-maruf-hossain-b9b252187](https://linkedin.com/in/md-maruf-hossain-b9b252187)  
-🐙 **GitHub**: [github.com/ryanmaruf615](https://github.com/ryanmaruf615)
-
----
-
+    --
 *“The best way to predict the future is to invent it.” – Alan Kay*

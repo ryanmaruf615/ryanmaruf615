@@ -31,7 +31,7 @@ A scalable full-stack job search platform built using **React.js** and **Node.js
 
 ---
 
-### 🔹 [**Cloud Computing Project – Azure & .NET**](https://shorturl.at/Q3Hc9)  
+### 🔹 [**DevOps-Driven Cloud Deployment of Containerized .NET Application using Azure Services**](https://shorturl.at/Q3Hc9)  
 *Apr 2024 – Sep 2024*
 
 Containerized a .NET application using **Docker** and deployed on **Azure Cloud**, optimizing performance and deployment time.  
@@ -39,6 +39,23 @@ Containerized a .NET application using **Docker** and deployed on **Azure Cloud*
 - **Key Achievements**:
   - Reduced deployment time by 40% with Docker containers.
   - Automated experiment storage and analysis using Azure services.
+
+---
+
+
+### 🔹 [**End-to-End Deployment of a Three-Tier Application on AWS EKS with GitOps**](git@github.com:ryanmaruf615/Wanderlust-Mega-Project.git)  
+
+
+Led the deployment of a scalable three-tier application on AWS EKS using GitOps with ArgoCD for full automation and streamlined operations..  
+- **Tech Stack**: AWS (EKS, S3, IAM), Terraform, ArgoCD, Jenkins, GitHub, Prometheus, Grafana, Docker, Kubernetes
+- **Key Achievements**:
+  - Accelerated infrastructure provisioning with Terraform for AWS resources.
+  - Implemented a robust Jenkins-driven CI/CD pipeline to enable seamless and zero-downtime deployments.
+  - Integrated ArgoCD to automate application synchronization between GitHub and EKS, minimizing manual intervention.
+  - Set up Prometheus and Grafana for proactive monitoring, ensuring faster issue detection and resolution.
+  - Achieved high deployment success rates, enhanced scalability, and significantly reduced manual operational effort, leading to improved system reliability and operational 
+   efficiency.
+
 
 ---
 

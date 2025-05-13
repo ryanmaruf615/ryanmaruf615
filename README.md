@@ -43,12 +43,12 @@ Led the deployment of a scalable three-tier application on AWS EKS using GitOps 
 ### 🔹 [**API Monitoring App**](https://github.com/ryanmaruf615/Raw_Node_Js_Monitoring_App)  
 A lightweight Node.js app that monitors API uptime and provides real-time status updates.  
 - **Tech Stack**: Node.js, Token-based Authentication, HTTPS  
-    --
 ---
 ### [Voting app**](https://github.com/ryanmaruf615/k8s-kind-voting-app.git)
 Automated deployment of scalable applications  
 - **Tech Stack**: AWS EC2 using Kubernetes, Argo CD, Prometheus & Grafana.
+---  
 ### [Full-Stack Chat Application**](https://github.com/ryanmaruf615/full-stack_chatApp)
 - **Tech Stack**:React, Node.js, Docker, Kubernetes, Jenkins, MongoDB, Ingress
-    
+---    
 *“The best way to predict the future is to invent it.” – Alan Kay*

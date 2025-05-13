@@ -25,10 +25,6 @@ I’m an **IT graduate student** specializing in **Cloud Computing**, **DevOps**
 
 A scalable full-stack job search platform built using **React.js** and **Node.js**, deployed on **AWS EC2** with **Docker** containerization.  
 - **Tech Stack**: React.js, Node.js, AWS (EC2, S3), Docker, Nginx, MySQL  
-- **Key Achievements**:
-  - Reduced deployment complexity by 40% using Docker.
-  - Enabled consistent environment replication by pushing container images to Docker Hub.
-
 ---
 
 ### 🔹 [**DevOps-Driven Cloud Deployment of Containerized .NET Application using Azure Services**](https://shorturl.at/Q3Hc9)  
@@ -36,35 +32,23 @@ A scalable full-stack job search platform built using **React.js** and **Node.js
 
 Containerized a .NET application using **Docker** and deployed on **Azure Cloud**, optimizing performance and deployment time.  
 - **Tech Stack**: .NET, Azure, Docker, Azure Container Registry, Blob Storage, Queue Storage  
-- **Key Achievements**:
-  - Reduced deployment time by 40% with Docker containers.
-  - Automated experiment storage and analysis using Azure services.
-
 ---
 
 
 ### 🔹 [**End-to-End Deployment of a Three-Tier Application on AWS EKS with GitOps**](git@github.com:ryanmaruf615/Wanderlust-Mega-Project.git)  
-
-
 Led the deployment of a scalable three-tier application on AWS EKS using GitOps with ArgoCD for full automation and streamlined operations..  
 - **Tech Stack**: AWS (EKS, S3, IAM), Terraform, ArgoCD, Jenkins, GitHub, Prometheus, Grafana, Docker, Kubernetes
-- **Key Achievements**:
-  - Accelerated infrastructure provisioning with Terraform for AWS resources.
-  - Implemented a robust Jenkins-driven CI/CD pipeline to enable seamless and zero-downtime deployments.
-  - Integrated ArgoCD to automate application synchronization between GitHub and EKS, minimizing manual intervention.
-  - Set up Prometheus and Grafana for proactive monitoring, ensuring faster issue detection and resolution.
-  - Achieved high deployment success rates, enhanced scalability, and significantly reduced manual operational effort, leading to improved system reliability and operational 
-   efficiency.
-
-
 ---
 
 ### 🔹 [**API Monitoring App**](https://github.com/ryanmaruf615/Raw_Node_Js_Monitoring_App)  
 A lightweight Node.js app that monitors API uptime and provides real-time status updates.  
 - **Tech Stack**: Node.js, Token-based Authentication, HTTPS  
-- **Key Achievements**:
-  - Built from scratch using pure Node.js with secure user authentication.
-  - Real-time API monitoring with custom alerts and notifications.
-
     --
+---
+### [Voting app**](https://github.com/ryanmaruf615/k8s-kind-voting-app.git)
+Automated deployment of scalable applications  
+- **Tech Stack**: AWS EC2 using Kubernetes, Argo CD, Prometheus & Grafana.
+### [Full-Stack Chat Application**](https://github.com/ryanmaruf615/full-stack_chatApp)
+- **Tech Stack**:React, Node.js, Docker, Kubernetes, Jenkins, MongoDB, Ingress
+    
 *“The best way to predict the future is to invent it.” – Alan Kay*

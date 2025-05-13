@@ -24,15 +24,10 @@ A scalable full-stack job search platform .
 ### 🔹 [**End-to-End Deployment of a Three-Tier Application on AWS EKS with GitOps**](git@github.com:ryanmaruf615/Wanderlust-Mega-Project.git)  
 Led the deployment of a scalable three-tier application on AWS EKS using GitOps with ArgoCD for full automation and streamlined operations..  
 - **Tech Stack**: AWS (EKS, S3, IAM), Terraform, ArgoCD, Jenkins, GitHub, Prometheus, Grafana, Docker, Kubernetes
----
-
-### 🔹 [**API Monitoring App**](https://github.com/ryanmaruf615/Raw_Node_Js_Monitoring_App)  
-A lightweight Node.js app that monitors API uptime and provides real-time status updates.  
-- **Tech Stack**: Node.js, Token-based Authentication, HTTPS  
----
-### 🔹 [**Voting app**](https://github.com/ryanmaruf615/k8s-kind-voting-app.git)
+---  
+### 🔹 [**Full Stack Voting app**](https://github.com/ryanmaruf615/k8s-kind-voting-app.git)
 Automated deployment of scalable applications  
-- **Tech Stack**: AWS EC2 using Kubernetes, Argo CD, Prometheus & Grafana.
+- **Tech Stack**: Python , .Net , React ,redis ,Postgres , AWS EC2 using Kubernetes, Argo CD, Prometheus & Grafana.
 ---  
 ### 🔹 [**Full-Stack Chat Application**](https://github.com/ryanmaruf615/full-stack_chatApp)
 - **Tech Stack**: React, Node.js, Docker, Kubernetes, Jenkins, MongoDB, Ingress

@@ -21,7 +21,7 @@ I’m an **IT graduate ** specializing in **Cloud Computing**, **DevOps**, and *
 A scalable full-stack job search platform .  
 - **Tech Stack**: React.js, Node.js, AWS (EC2, S3), Docker, MySQL  
 ---
-### 🔹 [**Wundar Lust Mega project End-to-End Deployment of a Three-Tier Application on AWS EKS with GitOps**](git@github.com:ryanmaruf615/Wanderlust-Mega-Project.git)  
+### 🔹  [**Wundar Lust Mega project End-to-End Deployment of a Three-Tier Application on AWS EKS with GitOps**](https://github.com/ryanmaruf615/Wanderlust-Mega-Project.git)  
 Led the deployment of a scalable three-tier application on AWS EKS using GitOps with ArgoCD for full automation and streamlined operations..  
 - **Tech Stack**: AWS (EKS, S3, IAM), Terraform, ArgoCD, Jenkins, GitHub, Prometheus, Grafana, Docker, Kubernetes
 ---  
